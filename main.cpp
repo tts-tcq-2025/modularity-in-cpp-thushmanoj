@@ -1,6 +1,6 @@
 #include <iostream>
 #include <assert.h>
-#include <Color_pair.hpp>
+#include "Color_pair.hpp"
 
 using namespace TelCoColorCoder;
 
