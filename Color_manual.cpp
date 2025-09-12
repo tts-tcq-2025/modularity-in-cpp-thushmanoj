@@ -1,6 +1,6 @@
 #include <iostream>
-#include "ColorPair.hpp"
-#include "ColorManual.hpp"
+#include "Color_pair.hpp"
+#include "Color_manual.hpp"
 
 namespace TelCoColorCoder {
 
